@@ -1,4 +1,4 @@
-const apiKey = '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';
+const apiKey = '';
     const apiUrl = 'https://api.openai.com/v1/engines/davinci-codex/completions';
 
     const chatbotMessages = document.querySelector('.chatbot-messages');
